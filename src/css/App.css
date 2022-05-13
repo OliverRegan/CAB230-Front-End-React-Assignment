@@ -1,0 +1,9 @@
+#layout {
+  min-height: 100vh;
+  max-width: 100vw;
+  /* Image by Tanya Grypach Evskaya on Unsplash */
+  background-image: url('../img/volcano.jpeg');
+  box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
